@@ -1,134 +1,211 @@
-<h1 align="center">Fahmida Akter Nupur</h1>
---
+# Hi 👋, I'm Fahmida Akter Nupur
+
+### Backend Developer | Python | Django REST Framework | FastAPI | AI Enthusiast
+
 📍 Dhaka, Bangladesh  
 🎓 B.Sc. in Computer Science & Engineering, Green University of Bangladesh  
 📧 fahmidanupur99@gmail.com  
-📱 +8801917386947 
+📱 +8801917386947  
 
-
+🔗 [LinkedIn](https://www.linkedin.com/in/fahmida-akter-nupur) • [GitHub](https://github.com/fahmida-nupur)
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Sc. in Computer Science & Engineering
-- 💼 Software Engineer Intern @ HEAT Sub-project (BdResNet)
-- 🔭 Currently building **BdResNet**, an AI-powered researcher profiling platform
-- 🌱 Learning **LLMs, RAG, OCR, Computer Vision, PostgreSQL**
-- 💻 Interested in **Backend Development**, **AI**, **Distributed Systems**, and **Research Intelligence**
-- ⚡ Competitive Programmer (800+ solved problems)
+I'm Fahmida Akter Nupur, a passionate competitive programmer and problem solver. I love coding, learning new algorithms, and improving my skills every day. I enjoy solving complex problems, building projects, and sharing knowledge with the community. My goal is to create impactful solutions that solve real-world problems while continuously growing in the tech industry.
+
+My interests include:
+
+- Backend Development
+- Artificial Intelligence
+- Research Information Systems
+- Document Verification
+- REST API Development
+- Database Design
+- Competitive Programming
 
 ---
 
-## 🚀 Tech Stack
+# 💼 Experience
 
-### Programming Languages
+## Software Engineer Intern
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Higher Education Acceleration and Transformation (HEAT) Sub-project**  
+📅 March 2026 – Present
 
-### Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-
-### Frontend
-
-![Vue](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Developing **BdResNet**, an automated researcher profiling platform for Bangladeshi researchers.
+- Designing scalable backend APIs using Django REST Framework.
+- Working with PostgreSQL and PostGIS for geospatial research data.
+- Integrating AI modules for researcher profiling and publication analysis.
+- Building Dockerized deployment environments.
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 BdResNet
+## 📄 Document Verification System (Thesis)
 
-AI-powered researcher profiling platform for Bangladeshi researchers.
+An AI-assisted document verification platform that supports secure document submission and distributed verification workflows.
 
-**Tech:** Django REST Framework • PostgreSQL • PostGIS • Vue.js • Docker
+### Features
 
----
+- Secure document upload
+- Template annotation system
+- Distributed verification mechanism
+- AI-ready architecture
+- YOLO-based document segmentation
+- OCR-based information extraction
 
-### 🔹 Document Verification System
+**Technology Stack**
 
-Distributed verification platform using AI, OCR and YOLO.
-
-**Tech:** FastAPI • PostgreSQL • Docker • JWT • OAuth2
-
----
-
-### 🔹 AI Resume Screening System
-
-Machine learning based resume ranking and skill prediction system.
-
-**Tech:** Python • XGBoost • Scikit-Learn • FastAPI
-
----
-
-## 🏆 Competitive Programming
-
-- ✅ 800+ Problems Solved
-- ⭐ CodeChef (2★)
-- 💙 Codeforces
-- 💛 LeetCode
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Next.js
+- TypeScript
+- JWT Authentication
+- OAuth2
+- Docker
 
 ---
 
-## 📊 GitHub Statistics
+## 🤖 BdResNet
 
-<p align="center">
+AI-powered researcher profiling and research intelligence platform.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nupur221&show_icons=true&theme=default"/>
+### Features
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupur221&layout=compact"/>
+- Researcher Profile Management
+- Publication Aggregation
+- Institution Management
+- AI-assisted Research Analytics
+- RESTful APIs
 
-</p>
+**Technology Stack**
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nupur221"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/nupur221">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fahmida-akter-nupur-53643426a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:fahmidanupur99@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+- Django REST Framework
+- Vue.js
+- Nuxt.js
+- PostgreSQL
+- PostGIS
+- Docker
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nupur221&style=flat-square"/>
-</p>
+## 📑 AI Resume Screening System
+
+Machine Learning-based resume screening platform for intelligent candidate ranking.
+
+### Features
+
+- Resume Upload
+- Skill Prediction
+- Candidate Ranking
+- Job Recommendation
+
+---
+
+# 🛠 Technical Skills
+
+## Programming Languages
+
+- Python
+- Java
+- C/C++
+- JavaScript
+- Bash
+
+## Frameworks
+
+- Django REST Framework
+- FastAPI
+- Vue.js
+- Nuxt.js
+- Next.js
+
+## Database
+
+- PostgreSQL
+- PostGIS
+- MySQL
+- SQLite
+
+## Tools
+
+- Docker
+- Git
+- GitHub
+- Linux
+- Postman
+
+## Core Knowledge
+
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- REST API Design
+- Database Design
+
+---
+
+# 🏆 Competitive Programming
+
+- Solved **800+** algorithmic problems.
+- Participated in **70+** programming contests.
+
+### Codeforces
+
+Maximum Rating: **1193**
+
+### CodeChef
+
+⭐ **2-Star**
+
+Maximum Rating: **1414**
+
+### LeetCode
+
+Maximum Rating: **1498**
+
+### Onsite Programming Contests
+
+- 🏆 Best Female — GUB IDPC 2024
+- 💻 IUPC Participant (UIU 2025)
+
+---
+
+# 🎓 Education
+
+## Bachelor of Science in Computer Science & Engineering
+
+**Green University of Bangladesh**
+
+📅 February 2022 – February 2026
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- YOLO
+- OCR
+- AI Agents
+
+---
+
+# 📫 Connect with Me
+
+📧 **Email:** fahmidanupur99@gmail.com
+
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/fahmida-akter-nupur-53643426a/
+
+💻 **GitHub:**  
+https://github.com/nupur221
+
+---
+
+⭐ Thanks for visiting my profile!
