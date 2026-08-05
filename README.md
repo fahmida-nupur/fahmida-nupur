@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fahmida Akter Nupur</h1>
-<h3 align="center">Backend Developer | Python | Django | FastAPI | AI Enthusiast</h3>
+<h1 align="center">Fahmida Akter Nupur</h1>
+--
+📍 Dhaka, Bangladesh  
+🎓 B.Sc. in Computer Science & Engineering, Green University of Bangladesh  
+📧 fahmidanupur99@gmail.com  
+📱 +8801917386947 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+%7C+FastAPI;AI+%26+Research+Profiling;Competitive+Programmer" />
-</p>
+
 
 ---
 
