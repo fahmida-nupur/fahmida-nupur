@@ -1,13 +1,13 @@
-# Hi 👋, I'm Fahmida Akter Nupur
+# Fahmida Akter Nupur
 
-### Backend Developer | Python | Django REST Framework | FastAPI | AI Enthusiast
+### Python | Django REST Framework | FastAPI | AI Enthusiast
 
 📍 Dhaka, Bangladesh  
 🎓 B.Sc. in Computer Science & Engineering, Green University of Bangladesh  
 📧 fahmidanupur99@gmail.com  
 📱 +8801917386947  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/fahmida-akter-nupur) • [GitHub](https://github.com/fahmida-nupur)
+🔗 [LinkedIn](https://www.linkedin.com/in/fahmida-akter-nupur) • [GitHub](https://github.com/fahmida-nupur) • [Portfolio](https://fahmidanupur.vercel.app/)
 
 ---
 
@@ -32,7 +32,7 @@ My interests include:
 ## Software Engineer Intern
 
 **Higher Education Acceleration and Transformation (HEAT) Sub-project**  
-📅 March 2026 – Present
+📅 March 2026 – Present 
 
 - Developing **BdResNet**, an automated researcher profiling platform for Bangladeshi researchers.
 - Designing scalable backend APIs using Django REST Framework.
@@ -66,29 +66,6 @@ An AI-assisted document verification platform that supports secure document subm
 - TypeScript
 - JWT Authentication
 - OAuth2
-- Docker
-
----
-
-## 🤖 BdResNet
-
-AI-powered researcher profiling and research intelligence platform.
-
-### Features
-
-- Researcher Profile Management
-- Publication Aggregation
-- Institution Management
-- AI-assisted Research Analytics
-- RESTful APIs
-
-**Technology Stack**
-
-- Django REST Framework
-- Vue.js
-- Nuxt.js
-- PostgreSQL
-- PostGIS
 - Docker
 
 ---
@@ -200,11 +177,9 @@ Maximum Rating: **1498**
 
 📧 **Email:** fahmidanupur99@gmail.com
 
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/fahmida-akter-nupur-53643426a/
+🔗 **LinkedIn:** https://www.linkedin.com/in/fahmida-akter-nupur
 
-💻 **GitHub:**  
-https://github.com/nupur221
+💻 **GitHub:** https://github.com/fahmida-nupur
 
 ---
 
