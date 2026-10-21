@@ -18,7 +18,7 @@
 ### ⚡ About My-Self
 
 - 🔭 **Currently Working On:** Developing distributed document digitization pipelines and scalable backend microservices.
-- 💼 **Former Experience:** Research Intern under the **HEAT Sub-project GUB* — built backend data infrastructure and REST APIs for **BDResNet** indexing 12,000+ researcher profiles.
+- 💼 **Former Experience:** Research Intern under the *HEAT Sub-project GUB* — built backend data infrastructure and REST APIs for **BDResNet** indexing 12,000+ researcher profiles.
 - 🎓 **Education:** B.Sc. in Computer Science & Engineering from **Green University of Bangladesh** (2022 – 2026).
 - 🏆 **Competitive Programming:** 1,000+ problems solved across Codeforces, LeetCode, CodeChef; 1st Place (Female Category) at GUB IDPC 2024; First female participant from GUB at National IUPC (UIU 2025).
 - 👩‍🏫 **Mentorship & Community:** Competitive Programming Trainer at **Bangladesh Girls Programming Contest (BdGPC'26)** by BdOSN; Former Programming & Development Secretary at **GUCC**.
