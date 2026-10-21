@@ -81,7 +81,6 @@ Passionate **Software Engineer** and **Python Backend Developer** with a strong 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fahmida-nupur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahmida's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=fahmida-nupur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -93,7 +92,7 @@ Passionate **Software Engineer** and **Python Backend Developer** with a strong 
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="mailto:fahmidanupur99@gmail.com"><img src="https://img.shields.io/badge/Email-fahmidanupur99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:fahmidanupur99@gmail.com" alt="Email"></a>
   <a href="https://www.linkedin.com/in/fahmida-akter-nupur/"><img src="https://img.shields.io/badge/LinkedIn-Fahmida%20Akter%20Nupur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://codeforces.com/profile/hall_of_N"><img src="https://img.shields.io/badge/Codeforces-hall__of__N-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://leetcode.com/u/Sn0w_Fall/"><img src="https://img.shields.io/badge/LeetCode-Sn0w__Fall-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
