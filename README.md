@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Fahmida Akter Nupur 👋 🚀</h1>
 
-<h3 align="center">Aspiring Software Engineer | Python Backend Developer | AI/ML Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Aspiring Software Engineer | Competitive Programmer</h3>
 
 <p align="center">
   📍 Dhaka, Bangladesh<br>
