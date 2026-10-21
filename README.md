@@ -1,12 +1,17 @@
-# Hi there, I'm Fahmida Akter Nupur 👋 🚀
+<h1 align="center">Hi there, I'm Fahmida Akter Nupur 👋 🚀</h1>
 
-### Software Engineer | Python Backend Developer | AI/ML Enthusiast | Competitive Programmer
-📍 Dhaka, Bangladesh  
-📧 [fahmidanupur99@gmail.com](mailto:fahmidanupur99@gmail.com) | 📱 +880-1917386947 | 🌐 [Portfolio](https://fahmidanupur.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/fahmida-akter-nupur/) | 🐙 [GitHub](https://github.com/fahmida-nupur)
+<h3 align="center">Aspiring Software Engineer | Python Backend Developer | AI/ML Enthusiast | Competitive Programmer</h3>
+
+<p align="center">
+  📍 Dhaka, Bangladesh<br>
+  📧 <a href="mailto:fahmidanupur99@gmail.com">fahmidanupur99@gmail.com</a> | 📱 +880-1917386947 | 🌐 <a href="https://fahmidanupur.vercel.app/">Portfolio</a> | 💼 <a href="https://www.linkedin.com/in/fahmida-akter-nupur/">LinkedIn</a> | 🐙 <a href="https://github.com/fahmida-nupur">GitHub</a>
+</p>
 
 ---
 
-Passionate **Software Engineer** and **Python Backend Developer** with a strong foundation in algorithmic problem-solving, scalable backend architectures, and AI/ML integrations. Experienced in building high-performance APIs, database optimization, and distributed systems using **FastAPI, Django REST Framework, PostgreSQL, Redis, and Celery**. Proven track record in competitive programming (1,000+ problems solved, IUPC contestant, CodeChef 2-Star) and national-level academic research under the UGC HEAT project.
+<p align="center">
+  <em>Passionate <strong>Aspiring Software Engineer</strong> and <strong>Python Backend Developer</strong> with a solid foundation in algorithmic problem-solving, backend system architecture, and AI/ML applications. Experienced in developing RESTful APIs, database design, and asynchronous workflows through academic projects, internships, and thesis research using <strong>FastAPI, Django REST Framework, PostgreSQL, Redis, and Celery</strong>. Proven track record in competitive programming (1,000+ problems solved, IUPC contestant, CodeChef 2-Star) and academic internship under the HEAT Sub-project GUB.</em>
+</p>
 
 ---
 
@@ -80,11 +85,8 @@ Passionate **Software Engineer** and **Python Backend Developer** with a strong 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmida-nupur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahmida's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmida-nupur&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahmida-nupur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="Fahmida's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmida-nupur&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
 </p>
 
 ---
@@ -92,10 +94,8 @@ Passionate **Software Engineer** and **Python Backend Developer** with a strong 
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="mailto:fahmidanupur99@gmail.com" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/fahmida-akter-nupur/"><img src="https://img.shields.io/badge/LinkedIn-Fahmida%20Akter%20Nupur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://codeforces.com/profile/hall_of_N"><img src="https://img.shields.io/badge/Codeforces-hall__of__N-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://leetcode.com/u/Sn0w_Fall/"><img src="https://img.shields.io/badge/LeetCode-Sn0w__Fall-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://codechef.com/users/sn0w_fall"><img src="https://img.shields.io/badge/CodeChef-sn0w__fall-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://fahmidanupur.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-gold?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:fahmidanupur99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fahmida-akter-nupur/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/fahmida-nupur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://fahmidanupur.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D9B46C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
