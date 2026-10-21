@@ -1,186 +1,102 @@
-# Fahmida Akter Nupur
+# Hi there, I'm Fahmida Akter Nupur 👋 🚀
 
-### Python | Django REST Framework | FastAPI | AI Enthusiast
-
+### Software Engineer | Python Backend Developer | AI/ML Enthusiast | Competitive Programmer
 📍 Dhaka, Bangladesh  
-🎓 B.Sc. in Computer Science & Engineering, Green University of Bangladesh  
-📧 fahmidanupur99@gmail.com  
-📱 +8801917386947  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/fahmida-akter-nupur) • [GitHub](https://github.com/fahmida-nupur) • [Portfolio](https://fahmidanupur.vercel.app/)
+📧 [fahmidanupur99@gmail.com](mailto:fahmidanupur99@gmail.com) | 📱 +880-1917386947 | 🌐 [Portfolio](https://fahmidanupur.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/fahmida-akter-nupur/) | 🐙 [GitHub](https://github.com/fahmida-nupur)
 
 ---
 
-## 👩‍💻 About Me
-
-I'm Fahmida Akter Nupur, a passionate competitive programmer and problem solver. I love coding, learning new algorithms, and improving my skills every day. I enjoy solving complex problems, building projects, and sharing knowledge with the community. My goal is to create impactful solutions that solve real-world problems while continuously growing in the tech industry.
-
-My interests include:
-
-- Backend Development
-- Artificial Intelligence
-- Research Information Systems
-- Document Verification
-- REST API Development
-- Database Design
-- Competitive Programming
+Passionate **Software Engineer** and **Python Backend Developer** with a strong foundation in algorithmic problem-solving, scalable backend architectures, and AI/ML integrations. Experienced in building high-performance APIs, database optimization, and distributed systems using **FastAPI, Django REST Framework, PostgreSQL, Redis, and Celery**. Proven track record in competitive programming (1,000+ problems solved, IUPC contestant, CodeChef 2-Star) and national-level academic research under the UGC HEAT project.
 
 ---
 
-# 💼 Experience
+### ⚡ About My-Self
 
-## Software Engineer Intern
-
-**Higher Education Acceleration and Transformation (HEAT) Sub-project**  
-📅 March 2026 – Present 
-
-- Developing **BdResNet**, an automated researcher profiling platform for Bangladeshi researchers.
-- Designing scalable backend APIs using Django REST Framework.
-- Working with PostgreSQL and PostGIS for geospatial research data.
-- Integrating AI modules for researcher profiling and publication analysis.
-- Building Dockerized deployment environments.
+- 🔭 **Currently Working On:** Developing distributed document digitization pipelines and scalable backend microservices.
+- 💼 **Former Experience:** Research Intern under the **HEAT Sub-project GUB* — built backend data infrastructure and REST APIs for **BDResNet** indexing 12,000+ researcher profiles.
+- 🎓 **Education:** B.Sc. in Computer Science & Engineering from **Green University of Bangladesh** (2022 – 2026).
+- 🏆 **Competitive Programming:** 1,000+ problems solved across Codeforces, LeetCode, CodeChef; 1st Place (Female Category) at GUB IDPC 2024; First female participant from GUB at National IUPC (UIU 2025).
+- 👩‍🏫 **Mentorship & Community:** Competitive Programming Trainer at **Bangladesh Girls Programming Contest (BdGPC'26)** by BdOSN; Former Programming & Development Secretary at **GUCC**.
 
 ---
 
-# 🚀 Featured Projects
+### 💼 Professional Experience
 
-## 📄 Document Verification System (Thesis)
+#### **Competitive Programming Trainer — BdOSN (BdGPC '26)**
+*October 2026 – Present | Dhaka, Bangladesh*
+- 🎯 Conducting training sessions on data structures, algorithms, and contest problem-solving techniques for aspiring female programmers across Bangladesh.
+- 💡 Designing algorithmic problem sets, directing practice contests, and mentoring 50+ participants.
 
-An AI-assisted document verification platform that supports secure document submission and distributed verification workflows.
+#### **Intern — HEAT Sub-Project GUB (UGC Bangladesh)**
+*March 2026 – September 2026 | Dhaka, Bangladesh*
+- 🌐 Developed database models for **BDResNet**, a national-level academic researcher profiling and recommendation platform indexing 12,000+ researcher profiles.
+- ⚡ Implemented RESTful APIs using **Django REST Framework (DRF)**, serializers, and **PostgreSQL**; integrated external bibliometric feeds via **OpenAlex API**.
+- 🐳 Containerized backend services with **Docker** and collaborated in agile development and code reviews using Git/GitHub.
 
-### Features
-
-- Secure document upload
-- Template annotation system
-- Distributed verification mechanism
-- AI-ready architecture
-- YOLO-based document segmentation
-- OCR-based information extraction
-
-**Technology Stack**
-
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Next.js
-- TypeScript
-- JWT Authentication
-- OAuth2
-- Docker
+#### **Programming & Development Secretary — Green University Computer Club (GUCC)**
+*2024 – 2025 | Dhaka, Bangladesh*
+- 🏆 Directed intra-university programming contests, authored problem sets, and led competitive programming bootcamps for 200+ students.
+- 💻 Managed development workflows and contributions for the official GUCC digital community platform.
 
 ---
 
-## 📑 AI Resume Screening System
+### 🚀 Featured Projects
 
-Machine Learning-based resume screening platform for intelligent candidate ranking.
+- 🤖 **[DigiDoc: Privacy-Preserving Distributed Document Digitization System]** — *FastAPI, PostgreSQL, SQLAlchemy, Redis, Celery, OCR, MiniLM v2, Docker*  
+  Architected an automated form transcription SaaS featuring RBAC, JWT/OAuth2, and the custom **NDT Algorithm** ($O(n)$ complexity) for sensitivity-aware segment distribution and anti-collusion among independent verifiers. Integrated MiniLM v2 embeddings for automated field grouping and OCR-assisted extraction evaluated via CER/WER.
 
-### Features
-
-- Resume Upload
-- Skill Prediction
-- Candidate Ranking
-- Job Recommendation
+- 🌐 **[BDResNet: Research Collaboration & Profiling Network](https://bdresnet.green.edu.bd/)** — *Django REST Framework, Python, PostgreSQL, OpenAlex API, Docker*  
+  Comprehensive research network for Bangladeshi researchers utilizing LLMs and Graph Neural Networks for automatic profiling and ranking. Engineered backend endpoints, institutional data pipelines, and relational schemas.
 
 ---
 
-# 🛠 Technical Skills
+### 🛠️ Tech Stack & Skills
 
-## Programming Languages
-
-- Python
-- Java
-- C/C++
-- JavaScript
-- Bash
-
-## Frameworks
-
-- Django REST Framework
-- FastAPI
-- Vue.js
-- Nuxt.js
-- Next.js
-
-## Database
-
-- PostgreSQL
-- PostGIS
-- MySQL
-- SQLite
-
-## Tools
-
-- Docker
-- Git
-- GitHub
-- Linux
-- Postman
-
-## Core Knowledge
-
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- REST API Design
-- Database Design
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, C/C++, TypeScript, JavaScript, SQL, HTML5, CSS3 |
+| **Backend & APIs** | FastAPI, Django REST Framework, RESTful APIs, Celery, Redis, SQLAlchemy |
+| **Frontend & Web** | React.js, Next.js, Tailwind CSS, Redux |
+| **AI / ML & Data** | PyTorch, Scikit-Learn, MiniLM v2, NLP, Computer Vision, Pandas, NumPy |
+| **Databases & Storage** | PostgreSQL, MySQL, Redis, Vector Embeddings |
+| **DevOps & Tools** | Docker, Git & GitHub, Linux/Bash, Postman, Vercel, VS Code |
 
 ---
 
-# 🏆 Competitive Programming
+### 🏆 Achievements & Metrics
 
-- Solved **800+** algorithmic problems.
-- Participated in **70+** programming contests.
-
-### Codeforces
-
-Maximum Rating: **1193**
-
-### CodeChef
-
-⭐ **2-Star**
-
-Maximum Rating: **1414**
-
-### LeetCode
-
-Maximum Rating: **1498**
-
-### Onsite Programming Contests
-
-- 🏆 Best Female — GUB IDPC 2024
-- 💻 IUPC Participant (UIU 2025)
+```text
+🏆 Competitive Programming                    🎖️ Leadership & Recognition
+├─ 1,000+ Algorithmic Problems Solved         ├─ Best Project Award — Integrated Design Project (IDP 2025)
+├─ 1st Place (Female) — GUB IDPC 2024         ├─ First Female Contestant from GUB at National IUPC (UIU 2025)
+├─ Codeforces: Pupil (hall_of_N)              ├─ CP Trainer — Bangladesh Girls Programming Contest (BdGPC'26)
+├─ CodeChef: 2-Star (sn0w_fall, 1400+)        ├─ Programming & Dev Secretary — GUCC (2024–2025)
+├─ LeetCode: 500+ Solved (Sn0w_Fall)          ├─ Qualified — Int. Astronomy & Astrophysics Competition (IAAC 2025)
+└─ HackerRank: Gold Badges (Problem Solving)  └─ Organizing Team Member — Bangladesh Math Olympiad (BdMO)
+```
 
 ---
 
-# 🎓 Education
+### 📊 GitHub Stats
 
-## Bachelor of Science in Computer Science & Engineering
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahmida-nupur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahmida's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=fahmida-nupur&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-**Green University of Bangladesh**
-
-📅 February 2022 – February 2026
-
----
-
-# 🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Computer Vision
-- YOLO
-- OCR
-- AI Agents
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmida-nupur&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-# 📫 Connect with Me
+### 📫 Let's Connect!
 
-📧 **Email:** fahmidanupur99@gmail.com
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/fahmida-akter-nupur
-
-💻 **GitHub:** https://github.com/fahmida-nupur
-
----
-
-⭐ Thanks for visiting my profile!
+<p align="left">
+  <a href="mailto:fahmidanupur99@gmail.com"><img src="https://img.shields.io/badge/Email-fahmidanupur99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fahmida-akter-nupur/"><img src="https://img.shields.io/badge/LinkedIn-Fahmida%20Akter%20Nupur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://codeforces.com/profile/hall_of_N"><img src="https://img.shields.io/badge/Codeforces-hall__of__N-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/Sn0w_Fall/"><img src="https://img.shields.io/badge/LeetCode-Sn0w__Fall-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://codechef.com/users/sn0w_fall"><img src="https://img.shields.io/badge/CodeChef-sn0w__fall-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://fahmidanupur.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-gold?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
